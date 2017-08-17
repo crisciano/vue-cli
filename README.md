@@ -19,3 +19,5 @@ inicializando vue-cli
 # npm install materialize-cli
 
 ```
+## Desenvolvedor
+> Crisciano S. Botelho
